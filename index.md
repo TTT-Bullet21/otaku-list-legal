@@ -1,8 +1,8 @@
 # Términos y Condiciones de Uso — Otaku List
 
-**Última actualización:** [FECHA]
+**Última actualización:** 10/08/2026
 
-Bienvenido/a a Otaku List ("la App", "nosotros"). Estos Términos y Condiciones ("Términos") regulan el uso de la aplicación móvil Otaku List (paquete: `com.aistudio.otakulist.rxq`). Al descargar, instalar o usar la App, aceptas quedar vinculado por estos Términos. Si no estás de acuerdo, no debes usar la App.
+Bienvenido/a a Otaku List ("la App", "nosotros"). Estos Términos y Condiciones ("Términos") regulan el uso de la aplicación móvil Otaku List (paquete: `com.aistudio.otakulist.rxq`), desarrollada por **TTT**. Al descargar, instalar o usar la App, aceptas quedar vinculado por estos Términos. Si no estás de acuerdo, no debes usar la App.
 
 ---
 
@@ -19,8 +19,9 @@ La App permite:
 
 ## 2. Requisitos de edad
 
-- Debes tener al menos [13/16/18, según definas] años para usar la App sin supervisión de un adulto.
+- Debes tener al menos **16 años** para usar la App.
 - Durante el registro/onboarding, se te solicitará confirmar tu rango de edad. Los usuarios que se identifiquen como menores de edad podrán tener restricciones adicionales (por ejemplo, no se les mostrará publicidad personalizada ni se activará la asociación de datos vía Google Signals).
+- Si tienes menos de 16 años, no debes usar la App sin la supervisión y el consentimiento expreso de un padre, madre o tutor legal.
 
 ## 3. Datos de terceros — MyAnimeList (MAL)
 
@@ -63,13 +64,13 @@ La App permite marcar cambios en tu lista de anime/manga (por ejemplo, marcar co
 
 ## 9. Donaciones voluntarias
 
-- Otaku List puede ofrecer una opción de donación completamente voluntaria para apoyar su desarrollo, a través de plataformas de terceros (por ejemplo, Ko-fi, Stripe).
+- Otaku List puede ofrecer una opción de donación completamente voluntaria para apoyar su desarrollo, a través de plataformas de terceros (por ejemplo, Ko-fi, PayPal, Stripe).
 - **Las donaciones no otorgan ninguna función adicional, contenido exclusivo, ni ventaja dentro de la App.** Son un gesto de apoyo libre y no reembolsable, salvo que la plataforma de pago utilizada indique lo contrario en sus propios términos.
 - El procesamiento de pagos es realizado íntegramente por el proveedor de pagos de terceros (Ko-fi, PayPal, Stripe, etc.); Otaku List no almacena ni procesa directamente datos de tarjetas de pago.
 
 ## 10. Propiedad intelectual
 
-- El código, diseño, marca y funcionalidades propias de Otaku List son propiedad de [TU NOMBRE / RAZÓN SOCIAL].
+- El código, diseño, marca y funcionalidades propias de Otaku List son propiedad de **TTT**.
 - El contenido de anime/manga (títulos, imágenes, sinopsis) pertenece a sus respectivos titulares de derechos y/o a MyAnimeList Co., Ltd. y otras fuentes de datos utilizadas.
 
 ## 11. Limitación de responsabilidad
@@ -83,7 +84,7 @@ Podemos actualizar estos Términos periódicamente. Los cambios significativos s
 
 ## 13. Contacto
 
-Para consultas relacionadas con estos Términos, puedes escribirnos a: [TU CORREO DE CONTACTO]
+Para consultas relacionadas con estos Términos, puedes escribirnos a: **ttt.20205ttt@gmail.com**
 
 ---
 
