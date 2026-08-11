@@ -1,5 +1,3 @@
-🌐 [Español](../) | [English](../en/) | [日本語](../ja/)
-
 # Terms and Conditions of Use — Otaku List
 
 **Last updated:** 10/08/2026
