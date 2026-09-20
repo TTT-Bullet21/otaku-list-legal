@@ -1,3 +1,5 @@
+🌐 [Español](../) | [English](./) | [日本語](../ja/)
+
 # Terms and Conditions of Use — Otaku List
 
 **Last updated:** 10/08/2026
@@ -39,10 +41,13 @@ Some content shown in the App (synopses, descriptions) may be automatically tran
 
 ## 5. Analytics and data collection
 
-To improve the App, we use **Firebase Analytics** (Google), which may collect:
+To improve the App, we use **Firebase Analytics** (Google) and **Microsoft Clarity**, which may collect:
 - In-app interaction events (swipes, buttons tapped, usage time, section openings, achievements unlocked).
 - Device identifiers and basic technical data (model, operating system, approximate country).
+- Heatmaps and recording of your navigation session within the App (Microsoft Clarity), with sensitive fields (MAL username, tokens, feedback) always masked.
 - If **Google Signals** is enabled, this information may be associated with your Google account data (if you are signed in on your device and have given consent to Google), including approximate interests and demographic data, for statistical and advertising purposes.
+
+Personalized advertising, Google Signals, and Microsoft Clarity all require your prior explicit consent in regions where applicable (see Section 6).
 
 You do not need to sign in with a Google account within the App for these features to work; events are associated with an anonymous installation identifier.
 
