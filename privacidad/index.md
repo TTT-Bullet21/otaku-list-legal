@@ -1,3 +1,5 @@
+🌐 [Español](./) | [English](../en/privacidad/) | [日本語](../ja/privacidad/)
+
 # Política de Privacidad — Otaku List
 
 **Última actualización:** 10/08/2026
@@ -25,6 +27,7 @@ Esta Política debe leerse junto con nuestros [Términos y Condiciones], que reg
 - **Identificadores de dispositivo:** un identificador anónimo de instalación generado por Firebase, modelo de dispositivo, sistema operativo, y país aproximado (basado en IP, no en ubicación GPS precisa).
 - **Identificador de publicidad:** el Advertising ID de tu dispositivo Android, utilizado por nuestras redes publicitarias (Google AdMob y AppLovin MAX) para mostrar anuncios, incluyendo anuncios personalizados si diste tu consentimiento.
 - **Datos de Google Signals (si está activado):** si iniciaste sesión con tu cuenta de Google en tu dispositivo y otorgaste consentimiento a Google, esta información puede asociar tus visitas con datos generales de intereses y demografía que Google ya posee. Esto no requiere que inicies sesión con Google dentro de la App.
+- **Grabación de sesión y mapas de calor (Microsoft Clarity):** capturamos cómo interactúas visualmente con la App (mapas de calor de toques/gestos y grabación de tu sesión de navegación dentro de la App) para entender y mejorar la experiencia de uso. Los campos que muestran tu nombre de usuario de MyAnimeList, tokens de sesión, y el texto que escribes en el formulario de feedback están enmascarados explícitamente y nunca se capturan en estas grabaciones.
 
 ### 2.3 Datos almacenados localmente en tu dispositivo
 - **Cola de sincronización offline:** cambios que realizas en tu lista de anime/manga sin conexión a internet (por ejemplo, marcar como completado) se guardan de forma privada en el almacenamiento interno de tu dispositivo hasta que se sincronizan con MyAnimeList al recuperar la conexión.
@@ -44,17 +47,20 @@ No vendemos tu información personal. Compartimos datos únicamente con los sigu
 | **Google AdMob / AppLovin MAX** | Mostrar publicidad dentro de la App | Advertising ID, datos técnicos del dispositivo |
 | **Google Gemini (IA)** | Traducción automática de contenido | Texto de sinopsis/descripciones de MAL (no se envían datos personales tuyos) |
 | **GitHub (a través de nuestro servidor intermediario)** | Gestión de comentarios y reportes de errores | El texto de tu comentario/reporte |
+| **Microsoft Clarity** | Mapas de calor y grabación de sesión para mejorar la experiencia de uso | Interacciones visuales dentro de la App (toques, gestos, navegación entre pantallas), con campos sensibles enmascarados |
 | **Binance Pay** (si realizas una donación) | Procesamiento de donaciones voluntarias | Datos de pago gestionados íntegramente por Binance; nosotros no accedemos a tus credenciales financieras |
 
 ## 4. Base legal y consentimiento
 
-- Para usuarios en la Unión Europea, Reino Unido y regiones con regulaciones similares (GDPR), solicitamos tu consentimiento explícito antes de activar publicidad personalizada y la asociación de datos vía Google Signals, mediante un mensaje de consentimiento (Google User Messaging Platform - UMP).
+- Para usuarios en la Unión Europea, Reino Unido y regiones con regulaciones similares (GDPR), solicitamos tu consentimiento explícito antes de activar publicidad personalizada, la asociación de datos vía Google Signals, y la grabación de sesión/mapas de calor de Microsoft Clarity, mediante un mensaje de consentimiento único (Google User Messaging Platform - UMP), sin mostrarte un segundo aviso separado para Clarity.
+- Hasta que respondas a este mensaje de consentimiento, Microsoft Clarity permanece pausado y no captura ningún dato.
 - Puedes retirar o modificar tu consentimiento en cualquier momento desde **Ajustes > Privacidad y datos** dentro de la App.
 - El uso de la App requiere confirmar, mediante checkbox, que tienes 18 años o más (ver Sección 7).
 
 ## 5. Cuánto tiempo conservamos tus datos
 
 - **Datos de Analytics:** se conservan según la configuración estándar de Firebase Analytics (generalmente hasta 14 meses, según la configuración del proyecto).
+- **Grabaciones de sesión (Microsoft Clarity):** se conservan durante 30 días, tras lo cual se eliminan automáticamente de forma permanente. Los mapas de calor agregados se conservan hasta 13 meses. Debido a una limitación técnica de esta herramienta, no es posible eliminar de forma individual los datos de un usuario específico dentro de ese periodo; solo se eliminan automáticamente al vencer el plazo indicado.
 - **Comentarios/reportes de feedback:** se conservan de forma indefinida en nuestro repositorio interno de seguimiento, hasta que decidamos archivarlos o solicites su eliminación (ver Sección 6).
 - **Datos de sincronización offline:** se eliminan automáticamente del dispositivo una vez que se sincronizan exitosamente con MyAnimeList.
 - **Progreso de logros/gamificación y Rewatch:** se conservan en tu dispositivo mientras uses la App; se eliminan si desinstalas la aplicación.
